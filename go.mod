@@ -18,7 +18,7 @@ require (
 	github.com/enigmampc/btcutil v1.0.3-0.20200723161021-e2fb6adb2a25
 	github.com/gogo/gateway v1.1.0
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/mock v1.4.4
+	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.4.3
 	github.com/golang/snappy v0.0.2 // indirect
 	github.com/gorilla/handlers v1.5.1
@@ -49,7 +49,6 @@ require (
 	github.com/tendermint/tendermint v0.34.2
 	github.com/tendermint/tm-db v0.6.3
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	golang.org/x/net v0.0.0-20200930145003-4acb6c075d10 // indirect
 	google.golang.org/genproto v0.0.0-20201214200347-8c77b98c765d
 	google.golang.org/grpc v1.33.2
 	google.golang.org/protobuf v1.25.0
