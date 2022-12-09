@@ -18,9 +18,8 @@ require (
 	github.com/enigmampc/btcutil v1.0.3-0.20200723161021-e2fb6adb2a25
 	github.com/gogo/gateway v1.1.0
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/mock v1.4.4
-	github.com/golang/protobuf v1.4.3
-	github.com/golang/snappy v0.0.2 // indirect
+	github.com/golang/mock v1.6.0
+	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
@@ -31,8 +30,8 @@ require (
 	github.com/otiai10/copy v1.4.2
 	github.com/pelletier/go-toml v1.8.0 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.8.0
-	github.com/prometheus/common v0.15.0
+	github.com/prometheus/client_golang v1.13.0
+	github.com/prometheus/common v0.38.0
 	github.com/rakyll/statik v0.1.7
 	github.com/regen-network/cosmos-proto v0.3.0
 	github.com/rs/zerolog v1.20.0
@@ -42,17 +41,16 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect; indirects
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.0
 	github.com/tendermint/btcd v0.1.1
 	github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15
 	github.com/tendermint/go-amino v0.16.0
 	github.com/tendermint/tendermint v0.34.2
 	github.com/tendermint/tm-db v0.6.3
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	golang.org/x/net v0.0.0-20200930145003-4acb6c075d10 // indirect
-	google.golang.org/genproto v0.0.0-20201214200347-8c77b98c765d
-	google.golang.org/grpc v1.33.2
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/genproto v0.0.0-20220616135557-88e70c0c3a90
+	google.golang.org/grpc v1.47.0
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
